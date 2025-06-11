@@ -1,0 +1,10 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 00FB7H 00FB8H _TEXT              CODE
+ 00FC0H 09203H 08244H _DATA              DATA
+ 09210H 0970FH 00500H STACK              STACK
+ 09710H 1910FH 0FA00H BUFFER1            
+
+Program entry point at 0000:0000
+
